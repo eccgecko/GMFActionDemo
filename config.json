@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
     "Tags": [ secret.HASHTAGS ],
-    "Instances": [ "mastodon.social", "mstdn.games", "infosec.exchange" ]
+    "Instances": [ secret.INSTANCES ]
 }
