@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "nintendo", "nintendoswitch", "zelda" ],
-    "Instances": [ "mastodon.social" ]
+    "Tags": [ "nintendo", "nintendoswitch", "zelda", "apple", "macbook", "wireguard", "foss" ],
+    "Instances": [ "mastodon.social", "mstdn.games", "infosec.exchange" ]
 }
