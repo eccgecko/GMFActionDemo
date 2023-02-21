@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "nintendo", "nintendoswitch", "zelda", "breathofthewild", "tearsofthekingdom", "apple", "macbook", "wireguard", "foss", "infosec", "privacy", "raspberrypi" ],
-    "Instances": [ "mastodon.social", "mstdn.games", "infosec.exchange", "hackers.town" ]
+    "Tags": [ "nintendo", "nintendoswitch", "zelda", "breathofthewild", "tearsofthekingdom", "thefilmcast", "theoscars", "apple", "macbook", "wireguard", "foss", "infosec", "privacy", "raspberrypi" ],
+    "Instances": [ "mastodon.social", "mstdn.games", "infosec.exchange", "hackers.town", "laserdisc.party ]
 }
